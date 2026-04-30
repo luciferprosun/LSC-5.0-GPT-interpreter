@@ -1,5 +1,10 @@
-# LSC 5.0 GPT Interpreter
-This repository contains the LSC 5.0@ — Relativistic Neutrino Detection Framework and associated files.
+# LSC-5.0: Early GPT Correlation Failure Experiments
+
+Historical codebase (2023-2024) for testing GPT-3.5 and GPT-4 on structured datasets.
+
+*Purpose:* Early-stage experiments in systematic LLM failure detection. Demonstrates long-term R&D continuity leading to LSC-6.0.
+
+*Status:* Archived research code. See LSC-6.0 for current implementation.
 
 ## Contents
 - `LSC_5.0_Framework.md`: Core framework description and formulas.
